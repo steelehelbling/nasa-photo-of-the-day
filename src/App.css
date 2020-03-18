@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.background{
+  width: 100%;
+  z-index: 0;
+}
+.top_content{
+  z-index: 1;
+  background-color: black;
+  color: white;
+  padding: 10px;
+}
